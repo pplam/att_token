@@ -1,0 +1,10 @@
+{
+  "endpoint": "http://localhost:8080",
+  "account": {
+    "address": "0x50972503af9f842d36237b4d59e3195eb55ed6e9",
+    "password": "123456"
+  },
+  "cost": {
+    "gas": 4700000
+  }
+}
